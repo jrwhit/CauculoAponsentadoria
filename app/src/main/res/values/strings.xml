@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculo Aposentadoria</string>
+    <string name="label_age">Digite sua idade</string>
+    <string name="calculate_label">Calcule quanto tempo falta para sua aposentadoria!</string>
+    <string name="choose_genre">Escolha o sexo:</string>
+    <string-array name="spinner_genre">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
